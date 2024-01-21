@@ -1,0 +1,220 @@
+{
+    "RHE":[
+     {
+      "S\/N": 1,
+      "Names": "Bilkisu Sani",
+      "Reg No": 52,
+      "Attendence": 10,
+      "CA Test": 25
+     },
+     {
+      "S\/N": 2,
+      "Names": "Safiyya Jamilu",
+      "Reg No": 35,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 3,
+      "Names": "Hafsat Umar",
+      "Reg No": 41,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 4,
+      "Names": "Hafsat Hassan",
+      "Reg No": 34,
+      "Attendence": 10,
+      "CA Test": 20
+     },
+     {
+      "S\/N": 5,
+      "Names": "Hadiza Bishir",
+      "Reg No": 31,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 6,
+      "Names": "Ummu Aiman Danjuma",
+      "Reg No": 29,
+      "Attendence": 10,
+      "CA Test": 10
+     },
+     {
+      "S\/N": 7,
+      "Names": "Maryam Lawal",
+      "Reg No": 55,
+      "Attendence": 10,
+      "CA Test": 25
+     },
+     {
+      "S\/N": 8,
+      "Names": "Zainab Haruna",
+      "Reg No": 54,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 9,
+      "Names": "Aisha Aminu",
+      "Reg No": 27,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 10,
+      "Names": "Asiya Ahmad",
+      "Reg No": 45,
+      "Attendence": 10,
+      "CA Test": 10
+     },
+     {
+      "S\/N": 11,
+      "Names": "Nabila Sani",
+      "Reg No": 23,
+      "Attendence": 10,
+      "CA Test": 10
+     },
+     {
+      "S\/N": 12,
+      "Names": "Rukayya Salisu",
+      "Reg No": 4,
+      "Attendence": 10,
+      "CA Test": 18
+     },
+     {
+      "S\/N": 13,
+      "Names": "Bilkisu Aminu",
+      "Reg No": 37,
+      "Attendence": 10,
+      "CA Test": 10
+     },
+     {
+      "S\/N": 14,
+      "Names": "Fadila Yahaya",
+      "Reg No": 51,
+      "Attendence": 10,
+      "CA Test": 10
+     },
+     {
+      "S\/N": 15,
+      "Names": "Laila Sadiq",
+      "Reg No": 13,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 16,
+      "Names": "Amina Kabir Abbas",
+      "Reg No": 25,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 17,
+      "Names": "FatimaTukur",
+      "Reg No": 26,
+      "Attendence": 10,
+      "CA Test": 20
+     },
+     {
+      "S\/N": 18,
+      "Names": "Naima Bashir",
+      "Reg No": 28,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 19,
+      "Names": "Peace Friday",
+      "Reg No": 5,
+      "Attendence": 10,
+      "CA Test": 26
+     },
+     {
+      "S\/N": 20,
+      "Names": "Fatima Jabir",
+      "Reg No": 22,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 21,
+      "Names": "Aisha Lawal",
+      "Reg No": 36,
+      "Attendence": 10,
+      "CA Test": 15
+     },
+     {
+      "S\/N": 22,
+      "Names": "Fatima Kabir",
+      "Reg No": 3,
+      "Attendence": 10,
+      "CA Test": 20
+     },
+     {
+      "S\/N": 23,
+      "Names": "Hafsat Tukur Maifada",
+      "Reg No": 14,
+      "Attendence": 10,
+      "CA Test": 20
+     },
+     {
+      "S\/N": 24,
+      "Attendence": 10
+     },
+     {
+      "S\/N": 25,
+      "Attendence": 10
+     },
+     {
+      "S\/N": 26,
+      "Attendence": 10
+     },
+     {
+      "S\/N": 27,
+      "Attendence": 10
+     },
+     {
+      "S\/N": 28,
+      "Attendence": 10
+     },
+     {
+      "S\/N": 29
+     },
+     {
+      "S\/N": 30
+     },
+     {
+      "S\/N": 31
+     },
+     {
+      "S\/N": 32
+     }
+    ],
+    "HIM":[
+     {
+      "S\/N": 1,
+      "Names": "Fiddausi Mu'azu",
+      "Reg No": 3,
+      "Attendence": 10,
+      "CA Test": 10
+     },
+     {
+      "S\/N": 2,
+      "Names": "Asmau Mansir",
+      "Reg No": 5,
+      "Attendence": 10,
+      "CA Test": 10
+     },
+     {
+      "S\/N": 3,
+      "Names": "Sahabi Mustapha",
+      "Reg No": 2,
+      "Attendence": 10,
+      "CA Test": 12
+     }
+    ]
+    }
