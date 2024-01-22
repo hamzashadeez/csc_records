@@ -114,7 +114,7 @@
  },
  {
   "S\/N": 17,
-  "Names": "FatimaTukur",
+  "Names": "Fatima Tukur",
   "Reg No": 26,
   "Attendence": 10,
   "CA Test": 20
@@ -271,7 +271,7 @@
   "Names": "Zainab Lawal",
   "Reg No": 9,
   "Attendence": 10,
-  "CA Test": 14
+  "CA Test": 18
  },
  {
   "S\/N": 40,
@@ -322,6 +322,7 @@
   "Attendence": 10,
   "CA Test": 16
  },
+ 
  {
   "S\/N": 47,
   "Names": "Zainab Jabir",
@@ -360,8 +361,23 @@
  {
   "S\/N": 52,
   "Names": "Fadila Sani",
+  "Reg No": "_",
   "Attendence": 10,
   "CA Test": 15
+ },
+ {
+  "S\/N": 53,
+  "Names": "Amina Umar",
+  "Reg No": 42,
+  "Attendence": 10,
+  "CA Test": 16
+ },
+ {
+  "S\/N": 53,
+  "Names": "Hauwau Bilya Ida",
+  "Reg No": 17,
+  "Attendence": 10,
+  "CA Test": 18
  }
 ],
 "HIM":[
